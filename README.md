@@ -1,5 +1,8 @@
 # Plant Disease Detection with Deep Convolutional Neural Network
 
+  <img src="https://qyuo.dev/AI4ALL_PDD.svg" alt="Plant Disease Detection" width="600">
+
+
 This repository contains the implementation of a deep convolutional neural network (CNN) for optimizing plant disease detection, developed as part of the AI4ALL Program at Carnegie Mellon University. The model utilizes transfer learning with a ResNet 50 architecture and incorporates advanced data augmentation techniques to improve model performance and generalization.
 
 ## Background 
